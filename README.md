@@ -1,2 +1,2 @@
 # smallstep
-xxxxx
+API+Admin
